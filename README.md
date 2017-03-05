@@ -1,2 +1,2 @@
 # DevOps
-Django admin 
+Django 后台管理系统 
